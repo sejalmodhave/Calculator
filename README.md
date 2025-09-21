@@ -11,6 +11,6 @@ Trying out small apps and websites
 
 📫 Contact
 
-GitHub: your-sejalmodhave
+GitHub:sejalmodhave
 
 Email:sejalmodhave@gmail.com
