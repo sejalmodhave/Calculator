@@ -13,4 +13,4 @@ Trying out small apps and websites
 
 GitHub: your-sejalmodhave
 
-Email: your-sejalmodhave@example.com
+Email:sejalmodhave@gmail.com
